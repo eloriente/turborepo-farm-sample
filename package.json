@@ -10,7 +10,8 @@
   "devDependencies": {
     "prettier": "^3.2.5",
     "turbo": "^2.0.6",
-    "typescript": "^5.4.5"
+    "typescript": "^5.4.5",
+    "@farmfe/core": "^1.2.4"
   },
   "engines": {
     "node": ">=18"
